@@ -1,6 +1,6 @@
 # LLM PLAYGROUND
 
-### 01-DB_FT_HF_PEFT_LORA_SAVE : 
+### 01- DB_FT_HF_PEFT_LORA_SAVE : 
 <details>
   <summary> Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Data</summary>
 
@@ -230,7 +230,6 @@ This script showcases a sophisticated implementation of language models for exec
 <details>
   <summary> Integrating OpenAI and SERP API with Langchain for Information Retrieval </summary>
 
-
 This script demonstrates how to use the Langchain library to create an intelligent agent that can answer questions by integrating OpenAI's language model and the SERP API for web search. It's set up in a Jupyter/Colab notebook environment and is designed to answer various types of queries.
 
 **Setup and Requirements:**
@@ -253,7 +252,8 @@ This script demonstrates how to use the Langchain library to create an intellige
 
 - Running the agent with a sample query ("Who is Eminem?") to demonstrate its ability to retrieve and process information.
 
-**Overall, the script illustrates the capability to create a versatile agent that can understand and respond to a wide range of queries, combining the power of advanced language models with web search tools.**<details>
+**Overall, the script illustrates the capability to create a versatile agent that can understand and respond to a wide range of queries, combining the power of advanced language models with web search tools.**
+
 </details>
 
 ### 09- Mistral_7B_HF_Client_Gradio: 
@@ -657,6 +657,37 @@ This script extracts and summarizes the transcript of a YouTube video using the 
 
 ### 20- Summarize_Code_Content_From_Repo: 
 <details>
-  <summary> X </summary>
-</details><details>
+  <summary> **Automating the Summarization of Python Notebooks Content from a GitHub Repository** </summary>
+
+This script is designed to automate the extraction and summarization of Python notebook content from a specific GitHub repository. It streamlines the process of accessing, converting, and interpreting multiple `.ipynb` files from a given repository URL.
+
+**Key Features and Steps:**
+
+1. **Setup and Web Scraping:**
+   - Installs the `bs4` package for web scraping.
+   - Uses `requests` and `BeautifulSoup` to scrape the GitHub repository page and extract links to `.ipynb` files.
+   - Converts the links to their raw GitHub content format for direct access.
+
+2. **File Download and Conversion:**
+   - Downloads the `.ipynb` files using their raw URLs.
+   - Installs `nbconvert` and `ipynb-py-convert` for converting Jupyter notebooks to Python scripts.
+   - Converts the downloaded `.ipynb` files to `.py` scripts for easier processing.
+
+3. **Summarization Process:**
+   - Sets up the OpenAI environment by installing `langchain` and `langchain_openai`, and configuring the OpenAI API key.
+   - Reads the content of a specific `.py` file (e.g., `01-DB_FT_HF_PEFT_LORA_SAVE.py`) into a string.
+   - Utilizes the OpenAI model to generate a summary of the Python code in bullet points, with bold titles for each significant section.
+
+4. **Output Presentation:**
+   - Displays the summarized content of the Python script in a structured and comprehensible format.
+
+**Usage and Application:**
+- Ideal for quickly understanding the contents of Python notebooks from a GitHub repository.
+- Useful for researchers, developers, or anyone interested in exploring code repositories without manually reading each file.
+- Can be expanded to include more complex summarization features or to handle a larger set of files.
+
+**Conclusion:**
+- The script showcases an efficient approach to accessing and summarizing code from GitHub repositories, leveraging web scraping and NLP technologies. It is particularly useful for obtaining quick insights into the contents of multiple notebooks, making it a valuable tool for code analysis and documentation purposes.
+
+</details>
 
