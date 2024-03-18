@@ -2,7 +2,7 @@
 
 # 01-DB_FT_HF_PEFT_LORA_SAVE : 
 <details>
-  <summary>### Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Dat<>/summary>
+  <summary>### Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Dat</summary>
 
 **Imports:**
 Libraries for datasets, models, tokenizers, training, and evaluation from transformers, datasets, and other packages.
