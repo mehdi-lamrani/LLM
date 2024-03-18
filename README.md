@@ -67,7 +67,7 @@ This simple script demonstrates the use of the Transformers library for text gen
 <details>
   <summary> **Title: Interactive Text Generation with TinyLlama Chat Model Using Transformers**
  </summary>
-</details>
+
 This script demonstrates an interactive approach to text generation using the TinyLlama Chat model. 
 It is designed to handle diverse conversational queries, showcasing the model's ability to respond to various prompts in a chat-like format.
 
@@ -140,7 +140,6 @@ The script exemplifies the use of Transformers for diverse applications, providi
 ### 06- LangChain_HF_Models_Locally: 
 <details>
   <summary> **Interactive Question Answering with Various Models** </summary>
-</details>
 
 This script sets up an interactive environment for question-answering using different language models. It utilizes the `langchain` and `transformers` libraries to create chains of Large Language Models (LLMs) with custom prompt templates for generating responses to questions.
 
@@ -224,9 +223,10 @@ This script showcases a sophisticated implementation of language models for exec
 
 - Run the agent with a Python coding task (finding the 10th Fibonacci number).
 
-**Overall, the script demonstrates an advanced usage of language models and custom agents for automating Python code generation and execution, providing a versatile tool for coding assistance.**</details>
+**Overall, the script demonstrates an advanced usage of language models and custom agents for automating Python code generation and execution, providing a versatile tool for coding assistance.**
 </details>
-### 08- : 
+
+### 08- LLM-Agent-langchain-SERP: 
 <details>
   <summary> Integrating OpenAI and SERP API with Langchain for Information Retrieval </summary>
 
@@ -258,7 +258,6 @@ This script demonstrates how to use the Langchain library to create an intellige
 ### 09- Mistral_7B_HF_Client_Gradio: 
 <details>
   <summary>**Generating Text with Mistral AI Model and Gradio Chat Interface**</summary>
-</details>
 
 This script uses the Mistral AI model from Hugging Face for text generation, implementing an interactive Gradio chat interface. It showcases the ability to generate conversational responses based on user inputs and model parameters.
 
@@ -352,7 +351,7 @@ This comprehensive script guides through the process of fine-tuning the Mistral 
 ### 12- PDF_Custom_Knowledge_LLM_FAISS_LangChain: 
 <details>
   <summary> **Building a Document-Based Conversational Chatbot with LangChain and OpenAI** </summary>
-</details>This script showcases a comprehensive approach to building a conversational chatbot that can answer questions based on the content of a specific document – in this case, the seminal paper "Attention Is All You Need." The process involves extracting text from the document, creating embeddings, setting up a similarity search, and then integrating this with a question-answering system powered by a large language model (LLM). The chatbot also maintains a chat history for context-aware responses.
+This script showcases a comprehensive approach to building a conversational chatbot that can answer questions based on the content of a specific document – in this case, the seminal paper "Attention Is All You Need." The process involves extracting text from the document, creating embeddings, setting up a similarity search, and then integrating this with a question-answering system powered by a large language model (LLM). The chatbot also maintains a chat history for context-aware responses.
 
 Here’s a breakdown of the key steps:
 
@@ -390,8 +389,7 @@ This script effectively combines text extraction, NLP, embeddings, similarity se
 ### 13- PDF_Summarizer_Langchain_OpenAI.py : 
 <details>
   <summary> **PDF Summarization Tool with Gradio Interface and LangChain** </summary>
-
-
+  
 This script focuses on creating an easy-to-use tool for summarizing PDF documents using a combination of LangChain and OpenAI's Large Language Models. The tool is made accessible through a Gradio interface, enabling users to upload a PDF and receive a concise summary.
 
 **Key Steps and Features:**
@@ -428,7 +426,6 @@ This script focuses on creating an easy-to-use tool for summarizing PDF document
 ### 14- Phi2_SFT_FT_Health: 
 <details>
   <summary> **Fine-Tuning PHI-2 Model for Mental Health Conversations with TRL and LoRA** </summary>
-</details>
 
 This script details the process of fine-tuning the PHI-2 model from Microsoft for a specialized task: generating responses for mental health counseling conversations. The process involves preparing the dataset, fine-tuning with Token Reward Learning (TRL) and Low-Rank Adaptation (LoRA), and generating responses using the fine-tuned model.
 
@@ -475,7 +472,6 @@ This script details the process of fine-tuning the PHI-2 model from Microsoft fo
 ### 15- Semantic_Prompt_Router_Cosine_Similary_Langchain: 
 <details>
   <summary> **Smart Subject-Specific Chatbot with LangChain and OpenAI** </summary>
-</details>
 
 This script demonstrates creating an intelligent chatbot using LangChain and OpenAI that can answer queries in specific subjects like physics, mathematics, and biology. The chatbot intelligently chooses the most relevant subject area based on the query and responds accordingly.
 
@@ -512,13 +508,12 @@ This script demonstrates creating an intelligent chatbot using LangChain and Ope
 **Usage:**
 - Users can input queries related to physics, mathematics, or biology, and the chatbot intelligently selects the relevant subject area to provide an expert response. It’s designed to acknowledge questions outside its expertise.
 
-- This script highlights the flexibility of combining AI models with intelligent routing systems to create context-aware chatbots. It showcases the potential of LangChain and OpenAI in building specialized conversational agents that can cater to specific domains of knowledge.<details>
+- This script highlights the flexibility of combining AI models with intelligent routing systems to create context-aware chatbots. It showcases the potential of LangChain and OpenAI in building specialized conversational agents that can cater to specific domains of knowledge.
 </details>
 
 ### 16- Semantic_Router_W/Aurelio: 
 <details>
   <summary> **Semantic Router for Efficient Routing in Language Models** </summary>
-
 
 This script introduces the Semantic Router library, an efficient method for routing queries to appropriate response categories in Large Language Models (LLMs). Semantic Router utilizes semantic vector space to significantly reduce routing time, making it a useful tool for enhancing LLM performance.
 
@@ -547,7 +542,7 @@ This script introduces the Semantic Router library, an efficient method for rout
 - Users can input queries, and the Semantic Router efficiently determines the relevant category based on pre-defined routes. It’s particularly useful for applications where quick decision-making is required to route queries to specific response mechanisms in chatbots or virtual assistants.
 
 **Conclusion:**
-- This script highlights how semantic routing can be used to enhance the interactivity and efficiency of LLMs in handling diverse user queries. By reducing route-making time, Semantic Router offers a practical solution for categorizing and responding to user inputs in a wide range of conversational AI applications.<details>
+- This script highlights how semantic routing can be used to enhance the interactivity and efficiency of LLMs in handling diverse user queries. By reducing route-making time, Semantic Router offers a practical solution for categorizing and responding to user inputs in a wide range of conversational AI applications.
 </details>
 
 ### 17- : 
@@ -580,7 +575,6 @@ This script demonstrates tokenization of a given text using the BERT tokenizer f
 ### 18- 18-Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
 <details>
   <summary> **Advanced PyTorch Transformer and Hugging Face Model Integration** </summary>
-</details>
 
 This script presents an advanced implementation of creating and training a simple neural network model using PyTorch, integrating it with the Hugging Face ecosystem, and performing various operations like model saving, loading, and cloning. The process includes handling tokenization, data loading, model training, and interaction with the Hugging Face Hub.
 
@@ -625,7 +619,6 @@ This script presents an advanced implementation of creating and training a simpl
 ### 19- Youtube_Video_Transcript_Summarization_HF: 
 <details>
   <summary> **Summarizing YouTube Video Transcript with Hugging Face Transformers** </summary>
-</details>
 
 This script extracts and summarizes the transcript of a YouTube video using the Hugging Face Transformers library and the YouTube Transcript API. It showcases how to automate the process of extracting meaningful summaries from online video content.
 
