@@ -550,7 +550,7 @@ This script introduces the Semantic Router library, an efficient method for rout
 - This script highlights how semantic routing can be used to enhance the interactivity and efficiency of LLMs in handling diverse user queries. By reducing route-making time, Semantic Router offers a practical solution for categorizing and responding to user inputs in a wide range of conversational AI applications.
 </details>
 
-### 17- : 
+### 17- Tokenizers Breakdown: 
 <details>
   <summary> Tokenization with Transformers Library</summary>
 
