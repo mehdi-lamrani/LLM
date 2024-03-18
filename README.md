@@ -1,6 +1,6 @@
 # LLM PLAYGROUND
 
-### 01- DB_FT_HF_PEFT_LORA_SAVE : 
+### 01 - DB_FT_HF_PEFT_LORA_SAVE : 
 <details>
   <summary> Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Data</summary>
 
@@ -43,7 +43,7 @@ Optional - Load PEFT Model for Inference:
 Instructions on how to load a PEFT model from the hub for inference purposes.
 </details>
 
-### 03- HF_LOAD_MODEL: 
+### 03 - HF_LOAD_MODEL: 
 <details>
   <summary> Text Generation Using Transformers' Pipeline with TinyLlama Model </summary>
 
@@ -63,7 +63,7 @@ This simple script demonstrates the use of the Transformers library for text gen
 </details>
 
 
-### 04- HF_LOCAL_from_pretrained: 
+### 04 - HF_LOCAL_from_pretrained: 
 <details>
   <summary> Interactive Text Generation with TinyLlama Chat Model Using Transformers
  </summary>
@@ -98,7 +98,7 @@ It is designed to handle diverse conversational queries, showcasing the model's 
   - For each scenario, the process of tokenizing the message, generating a response, and decoding it is repeated.<details>
 </details>
 
-### 05- HF_summarization: 
+### 05 - HF_summarization: 
 <details>
   <summary> Exploring NLP Tasks with Transformers on a Customer Service Query </summary>
 
@@ -137,7 +137,7 @@ This comprehensive script showcases various Natural Language Processing (NLP) ta
 The script exemplifies the use of Transformers for diverse applications, providing an end-to-end solution for processing and responding to customer service queries in a variety of ways.
 </details>
 
-### 06- LangChain_HF_Models_Locally: 
+### 06 - LangChain_HF_Models_Locally: 
 <details>
   <summary> Interactive Question Answering with Various Models </summary>
 
@@ -179,7 +179,7 @@ This script sets up an interactive environment for question-answering using diff
 
 </details>
 
-### 07- Langchain_OpenAI_Run_Code_Agent: 
+### 07 - Langchain_OpenAI_Run_Code_Agent: 
 <details>
   <summary> Advanced Python Coding Assistance with Language Models </summary>
 
@@ -226,7 +226,7 @@ This script showcases a sophisticated implementation of language models for exec
 **Overall, the script demonstrates an advanced usage of language models and custom agents for automating Python code generation and execution, providing a versatile tool for coding assistance.**
 </details>
 
-### 08- LLM-Agent-langchain-SERP: 
+### 08 - LLM-Agent-langchain-SERP: 
 <details>
   <summary> Integrating OpenAI and SERP API with Langchain for Information Retrieval </summary>
 
@@ -256,7 +256,7 @@ This script demonstrates how to use the Langchain library to create an intellige
 
 </details>
 
-### 09- Mistral_7B_HF_Client_Gradio: 
+### 09 - Mistral_7B_HF_Client_Gradio: 
 <details>
   <summary> Generating Text with Mistral AI Model and Gradio Chat Interface</summary>
 
@@ -292,7 +292,7 @@ This script uses the Mistral AI model from Hugging Face for text generation, imp
 
 </details>
 
-### 10- Mistral-Finetune-Video_Game_Reviews: 
+### 10 - Mistral-Finetune-Video_Game_Reviews: 
 <details>
   <summary> Fine-tuning Mistral 7B using QLoRA Method </summary>
 
@@ -349,7 +349,7 @@ This comprehensive script guides through the process of fine-tuning the Mistral 
 </details>
 
 
-### 12- PDF_Custom_Knowledge_LLM_FAISS_LangChain: 
+### 12 - PDF_Custom_Knowledge_LLM_FAISS_LangChain: 
 <details>
   <summary> Building a Document-Based Conversational Chatbot with LangChain and OpenAI </summary>
 This script showcases a comprehensive approach to building a conversational chatbot that can answer questions based on the content of a specific document – in this case, the seminal paper "Attention Is All You Need." The process involves extracting text from the document, creating embeddings, setting up a similarity search, and then integrating this with a question-answering system powered by a large language model (LLM). The chatbot also maintains a chat history for context-aware responses.
@@ -388,7 +388,7 @@ Here’s a breakdown of the key steps:
 This script effectively combines text extraction, NLP, embeddings, similarity search, and conversational AI to create a chatbot capable of providing specific information based on a given document. It demonstrates advanced use of Python libraries and APIs for NLP and AI-driven chat systems.
 </details>
 
-### 13- PDF_Summarizer_Langchain_OpenAI.py : 
+### 13 - PDF_Summarizer_Langchain_OpenAI.py : 
 <details>
   <summary> PDF Summarization Tool with Gradio Interface and LangChain </summary>
   
@@ -427,7 +427,7 @@ This script focuses on creating an easy-to-use tool for summarizing PDF document
 
 </details>
 
-### 14- Phi2_SFT_FT_Health: 
+### 14 - Phi2_SFT_FT_Health: 
 <details>
   <summary> Fine-Tuning PHI-2 Model for Mental Health Conversations with TRL and LoRA </summary>
 
@@ -474,7 +474,7 @@ This script details the process of fine-tuning the PHI-2 model from Microsoft fo
 - This script exemplifies the use of advanced machine learning techniques and NLP libraries to fine-tune a large pre-trained model, focusing on a specific application in mental health counseling. It demonstrates the flexibility and power of transformer models in handling specialized conversational tasks.
 </details>
 
-### 15- Semantic_Prompt_Router_Cosine_Similary_Langchain: 
+### 15 - Semantic_Prompt_Router_Cosine_Similary_Langchain: 
 <details>
   <summary> Smart Subject-Specific Chatbot with LangChain and OpenAI </summary>
 
@@ -516,7 +516,7 @@ This script demonstrates creating an intelligent chatbot using LangChain and Ope
 - This script highlights the flexibility of combining AI models with intelligent routing systems to create context-aware chatbots. It showcases the potential of LangChain and OpenAI in building specialized conversational agents that can cater to specific domains of knowledge.
 </details>
 
-### 16- Semantic_Router_W/Aurelio: 
+### 16 - Semantic_Router_W/Aurelio: 
 <details>
   <summary> Semantic Router for Efficient Routing in Language Models </summary>
 
@@ -550,7 +550,7 @@ This script introduces the Semantic Router library, an efficient method for rout
 - This script highlights how semantic routing can be used to enhance the interactivity and efficiency of LLMs in handling diverse user queries. By reducing route-making time, Semantic Router offers a practical solution for categorizing and responding to user inputs in a wide range of conversational AI applications.
 </details>
 
-### 17- Tokenizers Breakdown: 
+### 17 - Tokenizers Breakdown: 
 <details>
   <summary> Tokenization with Transformers Library</summary>
 
@@ -579,7 +579,7 @@ This script demonstrates tokenization of a given text using the BERT tokenizer f
 
 </details>
 
-### 18- Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
+### 18 - Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
 <details>
   <summary> Advanced PyTorch Transformer and Hugging Face Model Integration </summary>
 
@@ -625,7 +625,7 @@ This script presents an advanced implementation of creating and training a simpl
 
 </details>
 
-### 19- Youtube_Video_Transcript_Summarization_HF: 
+### 19 - Youtube_Video_Transcript_Summarization_HF: 
 <details>
   <summary> Summarizing YouTube Video Transcript with Hugging Face Transformers </summary>
 
@@ -663,7 +663,7 @@ This script extracts and summarizes the transcript of a YouTube video using the 
 - The script demonstrates the use of modern NLP techniques to summarize video content. By leveraging the YouTube Transcript API and the Hugging Face Transformers library, it offers a practical solution for extracting and condensing information from videos into concise summaries.
 </details>
 
-### 20- Summarize_Code_Content_From_Repo: 
+### 20 - Summarize_Code_Content_From_Repo: 
 <details>
   <summary> Automating the Summarization of Python Notebooks Content from a GitHub Repository </summary>
 
