@@ -59,7 +59,8 @@ This simple script demonstrates the use of the Transformers library for text gen
   - Initializing a text generation pipeline using the "TinyLlama/TinyLlama-1.1B-Chat-v1.0" model.
 
 - **Text Generation:**
-  - Using the pipeline to generate text based on the prompt "the capital of France is".<details>
+  - Using the pipeline to generate text based on the prompt "the capital of France is".
+</details>
 
 
 ### 04- HF_LOCAL_from_pretrained: 
@@ -96,10 +97,11 @@ It is designed to handle diverse conversational queries, showcasing the model's 
     - A quirky question about eating helicopters.
   - For each scenario, the process of tokenizing the message, generating a response, and decoding it is repeated.<details>
 </details>
+
 ### 05- HF_summarization: 
 <details>
   <summary> **Title: Exploring NLP Tasks with Transformers on a Customer Service Query** </summary>
-</details>
+
 
 This comprehensive script showcases various Natural Language Processing (NLP) tasks using the Transformers library. It deals with a fictional customer service scenario where a customer, 'Bumblebee,' received a wrong product from Amazon. The script includes text classification, named entity recognition (NER), question answering, summarization, translation, and text generation tasks.
 
@@ -132,7 +134,8 @@ This comprehensive script showcases various Natural Language Processing (NLP) ta
   - Setting a seed for reproducible results.
   - Generating a fictional response to the customer's complaint using a text-generation pipeline.
 
-The script exemplifies the use of Transformers for diverse applications, providing an end-to-end solution for processing and responding to customer service queries in a variety of ways.<details>
+The script exemplifies the use of Transformers for diverse applications, providing an end-to-end solution for processing and responding to customer service queries in a variety of ways.
+</details>
 
 ### 06- LangChain_HF_Models_Locally: 
 <details>
@@ -175,12 +178,12 @@ This script sets up an interactive environment for question-answering using diff
 
 **Overall, the script demonstrates a flexible approach to question answering and text generation using a variety of models, each suited for different types of NLP tasks.**
 
-<details>
+</details>
 
 ### 07- Langchain_OpenAI_Run_Code_Agent: 
 <details>
   <summary> **Advanced Python Coding Assistance with Language Models** </summary>
-</details>
+
 
 This script showcases a sophisticated implementation of language models for executing and assisting with Python code. It leverages the `langchain` library to create agents that can understand, write, and execute Python code in response to various queries.
 
@@ -221,12 +224,12 @@ This script showcases a sophisticated implementation of language models for exec
 
 - Run the agent with a Python coding task (finding the 10th Fibonacci number).
 
-**Overall, the script demonstrates an advanced usage of language models and custom agents for automating Python code generation and execution, providing a versatile tool for coding assistance.**<details>
-
+**Overall, the script demonstrates an advanced usage of language models and custom agents for automating Python code generation and execution, providing a versatile tool for coding assistance.**</details>
+</details>
 ### 08- : 
 <details>
   <summary> Integrating OpenAI and SERP API with Langchain for Information Retrieval </summary>
-</details>
+
 
 This script demonstrates how to use the Langchain library to create an intelligent agent that can answer questions by integrating OpenAI's language model and the SERP API for web search. It's set up in a Jupyter/Colab notebook environment and is designed to answer various types of queries.
 
@@ -285,12 +288,13 @@ This script uses the Mistral AI model from Hugging Face for text generation, imp
 7. **Launching Gradio Interface:**
    - Use Gradio's `queue` and `launch` methods to start the interactive chat interface with debugging enabled.
 
-**Overall, the script combines advanced NLP model inference with an interactive frontend, creating a versatile platform for engaging with an AI-driven chatbot.**<details>
+**Overall, the script combines advanced NLP model inference with an interactive frontend, creating a versatile platform for engaging with an AI-driven chatbot.**
+
+</details>
 
 ### 10- Mistral-Finetune-Video_Game_Reviews: 
 <details>
   <summary>**Fine-tuning Mistral 7B using QLoRA Method**</summary>
-</details>**Script Overview: Fine-tuning Mistral 7B using QLoRA Method**
 
 This comprehensive script guides through the process of fine-tuning the Mistral 7B model using QLoRA (Quantization and Low-Rank Adaptation), showcasing steps from setting up the environment to training and inference.
 
@@ -340,7 +344,9 @@ This comprehensive script guides through the process of fine-tuning the Mistral 
 **Conclusion and Further Resources:**
 - Concludes with a successful demonstration of fine-tuning and encourages feedback and further discussion on platforms like Discord.
 
-**Overall, this script provides a detailed walkthrough for fine-tuning a large language model, catering to those interested in advanced NLP tasks and model optimization.**<details>
+**Overall, this script provides a detailed walkthrough for fine-tuning a large language model, catering to those interested in advanced NLP tasks and model optimization.**
+
+</details>
 
 
 ### 12- PDF_Custom_Knowledge_LLM_FAISS_LangChain: 
@@ -384,7 +390,7 @@ This script effectively combines text extraction, NLP, embeddings, similarity se
 ### 13- PDF_Summarizer_Langchain_OpenAI.py : 
 <details>
   <summary> **PDF Summarization Tool with Gradio Interface and LangChain** </summary>
-</details>
+
 
 This script focuses on creating an easy-to-use tool for summarizing PDF documents using a combination of LangChain and OpenAI's Large Language Models. The tool is made accessible through a Gradio interface, enabling users to upload a PDF and receive a concise summary.
 
@@ -507,11 +513,12 @@ This script demonstrates creating an intelligent chatbot using LangChain and Ope
 - Users can input queries related to physics, mathematics, or biology, and the chatbot intelligently selects the relevant subject area to provide an expert response. It’s designed to acknowledge questions outside its expertise.
 
 - This script highlights the flexibility of combining AI models with intelligent routing systems to create context-aware chatbots. It showcases the potential of LangChain and OpenAI in building specialized conversational agents that can cater to specific domains of knowledge.<details>
+</details>
 
 ### 16- Semantic_Router_W/Aurelio: 
 <details>
   <summary> **Semantic Router for Efficient Routing in Language Models** </summary>
-</details>
+
 
 This script introduces the Semantic Router library, an efficient method for routing queries to appropriate response categories in Large Language Models (LLMs). Semantic Router utilizes semantic vector space to significantly reduce routing time, making it a useful tool for enhancing LLM performance.
 
@@ -541,11 +548,11 @@ This script introduces the Semantic Router library, an efficient method for rout
 
 **Conclusion:**
 - This script highlights how semantic routing can be used to enhance the interactivity and efficiency of LLMs in handling diverse user queries. By reducing route-making time, Semantic Router offers a practical solution for categorizing and responding to user inputs in a wide range of conversational AI applications.<details>
+</details>
 
 ### 17- : 
 <details>
   <summary> **Tokenization with Transformers Library**</summary>
-</details>
 
 This script demonstrates tokenization of a given text using the BERT tokenizer from the Transformers library. Tokenization is the process of converting text into a sequence of tokens (words, subwords, or symbols) that can be processed by language models.
 
@@ -651,7 +658,8 @@ This script extracts and summarizes the transcript of a YouTube video using the 
 - Helps users quickly understand the content of a video without watching it in full.
 - Can be adapted for other video sources by modifying the transcript extraction method.
 
-- The script demonstrates the use of modern NLP techniques to summarize video content. By leveraging the YouTube Transcript API and the Hugging Face Transformers library, it offers a practical solution for extracting and condensing information from videos into concise summaries.<details>
+- The script demonstrates the use of modern NLP techniques to summarize video content. By leveraging the YouTube Transcript API and the Hugging Face Transformers library, it offers a practical solution for extracting and condensing information from videos into concise summaries.
+</details>
 
 ### 20- : 
 <details>
