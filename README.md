@@ -46,7 +46,7 @@ Instructions on how to load a PEFT model from the hub for inference purposes.
 ### 03- HF_LOAD_MODEL: 
 <details>
   <summary> Text Generation Using Transformers' Pipeline with TinyLlama Model </summary>
-</details>
+
 This simple script demonstrates the use of the Transformers library for text generation by utilizing a high-level helper called 'pipeline'. It specifically employs the TinyLlama model to generate text based on a given prompt.
 
 **Key Steps:**
@@ -95,8 +95,8 @@ It is designed to handle diverse conversational queries, showcasing the model's 
     - Requesting vegetarian dish recipes for a friend.
     - A quirky question about eating helicopters.
   - For each scenario, the process of tokenizing the message, generating a response, and decoding it is repeated.<details>
-
-### 05- : 
+</details>
+### 05- HF_summarization: 
 <details>
   <summary> **Title: Exploring NLP Tasks with Transformers on a Customer Service Query** </summary>
 </details>
@@ -134,7 +134,7 @@ This comprehensive script showcases various Natural Language Processing (NLP) ta
 
 The script exemplifies the use of Transformers for diverse applications, providing an end-to-end solution for processing and responding to customer service queries in a variety of ways.<details>
 
-### 06- : 
+### 06- LangChain_HF_Models_Locally: 
 <details>
   <summary> **Interactive Question Answering with Various Models** </summary>
 </details>
