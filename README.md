@@ -43,98 +43,111 @@ Optional - Load PEFT Model for Inference:
 Instructions on how to load a PEFT model from the hub for inference purposes.
 </details>
 
-### 02- : 
+### 03- HF_LOAD_MODEL: 
 <details>
-  <summary> X </summary>
-</details>details>
+  <summary> Text Generation Using Transformers' Pipeline with TinyLlama Model </summary>
+</details>
+This simple script demonstrates the use of the Transformers library for text generation by utilizing a high-level helper called 'pipeline'. It specifically employs the TinyLlama model to generate text based on a given prompt.
+
+**Key Steps:**
+
+- **Library Installation:**
+  - Installing the `transformers` package, which provides tools for natural language processing tasks.
+
+- **Pipeline Initialization:**
+  - Importing the `pipeline` function from the Transformers library.
+  - Initializing a text generation pipeline using the "TinyLlama/TinyLlama-1.1B-Chat-v1.0" model.
+
+- **Text Generation:**
+  - Using the pipeline to generate text based on the prompt "the capital of France is".<details>
 
 ### 03- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 04- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 05- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 06- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 07- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 08- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 09- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 10- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 11- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 12- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 13- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 14- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 15- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 16- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 17- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 18- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 19- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
 ### 20- : 
 <details>
   <summary> X </summary>
-</details>details>
+</details><details>
 
