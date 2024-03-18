@@ -181,7 +181,7 @@ This script sets up an interactive environment for question-answering using diff
 
 ### 07- Langchain_OpenAI_Run_Code_Agent: 
 <details>
-  <summary> **Advanced Python Coding Assistance with Language Models** </summary>
+  <summary> Advanced Python Coding Assistance with Language Models </summary>
 
 
 This script showcases a sophisticated implementation of language models for executing and assisting with Python code. It leverages the `langchain` library to create agents that can understand, write, and execute Python code in response to various queries.
@@ -471,7 +471,8 @@ This script details the process of fine-tuning the PHI-2 model from Microsoft fo
 **Usage:**
 - The script aims to adapt a large language model for more empathetic and appropriate responses in mental health counseling scenarios. It shows the capability of fine-tuning large models for specialized conversation tasks.
 
-- This script exemplifies the use of advanced machine learning techniques and NLP libraries to fine-tune a large pre-trained model, focusing on a specific application in mental health counseling. It demonstrates the flexibility and power of transformer models in handling specialized conversational tasks.<details>
+- This script exemplifies the use of advanced machine learning techniques and NLP libraries to fine-tune a large pre-trained model, focusing on a specific application in mental health counseling. It demonstrates the flexibility and power of transformer models in handling specialized conversational tasks.
+</details>
 
 ### 15- Semantic_Prompt_Router_Cosine_Similary_Langchain: 
 <details>
@@ -620,7 +621,9 @@ This script presents an advanced implementation of creating and training a simpl
 - It showcases end-to-end workflow from model creation to deployment on Hugging Face Hub.
 
 **Conclusion:**
-- The script provides a comprehensive demonstration of integrating PyTorch models with the Hugging Face Hub, covering various aspects like training, saving, loading, and hub operations. It is an advanced example for users interested in leveraging both PyTorch and Hugging Face tools for model development and deployment.<details>
+- The script provides a comprehensive demonstration of integrating PyTorch models with the Hugging Face Hub, covering various aspects like training, saving, loading, and hub operations. It is an advanced example for users interested in leveraging both PyTorch and Hugging Face tools for model development and deployment.
+
+</details>
 
 ### 19- Youtube_Video_Transcript_Summarization_HF: 
 <details>
