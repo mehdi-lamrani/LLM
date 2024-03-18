@@ -476,7 +476,7 @@ This script details the process of fine-tuning the PHI-2 model from Microsoft fo
 
 ### 15- Semantic_Prompt_Router_Cosine_Similary_Langchain: 
 <details>
-  <summary> **Smart Subject-Specific Chatbot with LangChain and OpenAI** </summary>
+  <summary> Smart Subject-Specific Chatbot with LangChain and OpenAI </summary>
 
 This script demonstrates creating an intelligent chatbot using LangChain and OpenAI that can answer queries in specific subjects like physics, mathematics, and biology. The chatbot intelligently chooses the most relevant subject area based on the query and responds accordingly.
 
