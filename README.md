@@ -254,6 +254,7 @@ This script demonstrates how to use the Langchain library to create an intellige
 - Running the agent with a sample query ("Who is Eminem?") to demonstrate its ability to retrieve and process information.
 
 **Overall, the script illustrates the capability to create a versatile agent that can understand and respond to a wide range of queries, combining the power of advanced language models with web search tools.**<details>
+</details>
 
 ### 09- Mistral_7B_HF_Client_Gradio: 
 <details>
@@ -654,7 +655,7 @@ This script extracts and summarizes the transcript of a YouTube video using the 
 - The script demonstrates the use of modern NLP techniques to summarize video content. By leveraging the YouTube Transcript API and the Hugging Face Transformers library, it offers a practical solution for extracting and condensing information from videos into concise summaries.
 </details>
 
-### 20- : 
+### 20- Summarize_Code_Content_From_Repo: 
 <details>
   <summary> X </summary>
 </details><details>
