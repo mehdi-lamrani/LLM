@@ -390,7 +390,7 @@ This script effectively combines text extraction, NLP, embeddings, similarity se
 
 ### 13- PDF_Summarizer_Langchain_OpenAI.py : 
 <details>
-  <summary> **PDF Summarization Tool with Gradio Interface and LangChain** </summary>
+  <summary> PDF Summarization Tool with Gradio Interface and LangChain </summary>
   
 This script focuses on creating an easy-to-use tool for summarizing PDF documents using a combination of LangChain and OpenAI's Large Language Models. The tool is made accessible through a Gradio interface, enabling users to upload a PDF and receive a concise summary.
 
