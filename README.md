@@ -1,7 +1,8 @@
 # LLM PLAYGROUND
 
 # 01-DB_FT_HF_PEFT_LORA_SAVE : 
-### Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Data
+<details>
+  <summary>### Fine-tuning a Sentiment Analysis Model with Parameter-Efficient Fine-Tuning (PEFT) Techniques on IMDb Data/summary>
 
 **Imports:**
 Libraries for datasets, models, tokenizers, training, and evaluation from transformers, datasets, and other packages.
@@ -40,3 +41,4 @@ Setting up identifiers for pushing the model and trainer to the Hugging Face Hub
 Optional - Load PEFT Model for Inference:
 
 Instructions on how to load a PEFT model from the hub for inference purposes.
+</details>
