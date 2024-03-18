@@ -385,7 +385,8 @@ Here’s a breakdown of the key steps:
 8. **Usage:**
    - Users can interact with the chatbot by typing questions into the input box. The chatbot will retrieve relevant information from the document and generate responses accordingly.
 
-This script effectively combines text extraction, NLP, embeddings, similarity search, and conversational AI to create a chatbot capable of providing specific information based on a given document. It demonstrates advanced use of Python libraries and APIs for NLP and AI-driven chat systems.<details>
+This script effectively combines text extraction, NLP, embeddings, similarity search, and conversational AI to create a chatbot capable of providing specific information based on a given document. It demonstrates advanced use of Python libraries and APIs for NLP and AI-driven chat systems.
+</details>
 
 ### 13- PDF_Summarizer_Langchain_OpenAI.py : 
 <details>
@@ -422,7 +423,9 @@ This script focuses on creating an easy-to-use tool for summarizing PDF document
 - Users can upload or specify the path of a PDF document and receive a summary of its content through a simple and interactive web interface. This tool can be particularly useful for quickly understanding the contents of lengthy documents without reading them in their entirety.
 
 **Summary:**
-- This script demonstrates the practical application of combining NLP models with user-friendly web interfaces to create useful tools for summarizing documents, showcasing the potential of AI in enhancing information accessibility and efficiency.<details>
+- This script demonstrates the practical application of combining NLP models with user-friendly web interfaces to create useful tools for summarizing documents, showcasing the potential of AI in enhancing information accessibility and efficiency.
+
+</details>
 
 ### 14- Phi2_SFT_FT_Health: 
 <details>
@@ -571,7 +574,9 @@ This script demonstrates tokenization of a given text using the BERT tokenizer f
 **Usage:**
 - This script can be used as a basic example to understand how tokenization works in NLP models, particularly with BERT. It's helpful for preprocessing text data before feeding it into language models for various NLP tasks.
 
-- The script provides a clear demonstration of tokenization, a fundamental step in preparing text data for natural language processing. It showcases the ease of using pre-built tokenizers from the Transformers library, highlighting the library's usefulness in NLP projects.<details>
+- The script provides a clear demonstration of tokenization, a fundamental step in preparing text data for natural language processing. It showcases the ease of using pre-built tokenizers from the Transformers library, highlighting the library's usefulness in NLP projects.
+
+</details>
 
 ### 18- Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
 <details>
