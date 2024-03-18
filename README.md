@@ -627,7 +627,7 @@ This script presents an advanced implementation of creating and training a simpl
 
 ### 19- Youtube_Video_Transcript_Summarization_HF: 
 <details>
-  <summary> **Summarizing YouTube Video Transcript with Hugging Face Transformers** </summary>
+  <summary> Summarizing YouTube Video Transcript with Hugging Face Transformers </summary>
 
 This script extracts and summarizes the transcript of a YouTube video using the Hugging Face Transformers library and the YouTube Transcript API. It showcases how to automate the process of extracting meaningful summaries from online video content.
 
@@ -665,7 +665,7 @@ This script extracts and summarizes the transcript of a YouTube video using the 
 
 ### 20- Summarize_Code_Content_From_Repo: 
 <details>
-  <summary> **Automating the Summarization of Python Notebooks Content from a GitHub Repository** </summary>
+  <summary> Automating the Summarization of Python Notebooks Content from a GitHub Repository </summary>
 
 This script is designed to automate the extraction and summarization of Python notebook content from a specific GitHub repository. It streamlines the process of accessing, converting, and interpreting multiple `.ipynb` files from a given repository URL.
 
