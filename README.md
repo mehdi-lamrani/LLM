@@ -294,7 +294,7 @@ This script uses the Mistral AI model from Hugging Face for text generation, imp
 
 ### 10- Mistral-Finetune-Video_Game_Reviews: 
 <details>
-  <summary>**Fine-tuning Mistral 7B using QLoRA Method**</summary>
+  <summary> Fine-tuning Mistral 7B using QLoRA Method </summary>
 
 This comprehensive script guides through the process of fine-tuning the Mistral 7B model using QLoRA (Quantization and Low-Rank Adaptation), showcasing steps from setting up the environment to training and inference.
 
