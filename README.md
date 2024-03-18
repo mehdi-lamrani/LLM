@@ -42,3 +42,99 @@ Optional - Load PEFT Model for Inference:
 
 Instructions on how to load a PEFT model from the hub for inference purposes.
 </details>
+
+### 02- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 03- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 04- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 05- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 06- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 07- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 08- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 09- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 10- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 11- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 12- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 13- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 14- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 15- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 16- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 17- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 18- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 19- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
+### 20- : 
+<details>
+  <summary> X </summary>
+</details>details>
+
