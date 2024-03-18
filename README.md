@@ -65,7 +65,7 @@ This simple script demonstrates the use of the Transformers library for text gen
 
 ### 04- HF_LOCAL_from_pretrained: 
 <details>
-  <summary> **Title: Interactive Text Generation with TinyLlama Chat Model Using Transformers**
+  <summary> Interactive Text Generation with TinyLlama Chat Model Using Transformers
  </summary>
 
 This script demonstrates an interactive approach to text generation using the TinyLlama Chat model. 
@@ -100,7 +100,7 @@ It is designed to handle diverse conversational queries, showcasing the model's 
 
 ### 05- HF_summarization: 
 <details>
-  <summary> **Title: Exploring NLP Tasks with Transformers on a Customer Service Query** </summary>
+  <summary> Exploring NLP Tasks with Transformers on a Customer Service Query </summary>
 
 
 This comprehensive script showcases various Natural Language Processing (NLP) tasks using the Transformers library. It deals with a fictional customer service scenario where a customer, 'Bumblebee,' received a wrong product from Amazon. The script includes text classification, named entity recognition (NER), question answering, summarization, translation, and text generation tasks.
@@ -139,7 +139,7 @@ The script exemplifies the use of Transformers for diverse applications, providi
 
 ### 06- LangChain_HF_Models_Locally: 
 <details>
-  <summary> **Interactive Question Answering with Various Models** </summary>
+  <summary> Interactive Question Answering with Various Models </summary>
 
 This script sets up an interactive environment for question-answering using different language models. It utilizes the `langchain` and `transformers` libraries to create chains of Large Language Models (LLMs) with custom prompt templates for generating responses to questions.
 
@@ -258,7 +258,7 @@ This script demonstrates how to use the Langchain library to create an intellige
 
 ### 09- Mistral_7B_HF_Client_Gradio: 
 <details>
-  <summary>**Generating Text with Mistral AI Model and Gradio Chat Interface**</summary>
+  <summary> Generating Text with Mistral AI Model and Gradio Chat Interface</summary>
 
 This script uses the Mistral AI model from Hugging Face for text generation, implementing an interactive Gradio chat interface. It showcases the ability to generate conversational responses based on user inputs and model parameters.
 
@@ -351,7 +351,7 @@ This comprehensive script guides through the process of fine-tuning the Mistral 
 
 ### 12- PDF_Custom_Knowledge_LLM_FAISS_LangChain: 
 <details>
-  <summary> **Building a Document-Based Conversational Chatbot with LangChain and OpenAI** </summary>
+  <summary> Building a Document-Based Conversational Chatbot with LangChain and OpenAI </summary>
 This script showcases a comprehensive approach to building a conversational chatbot that can answer questions based on the content of a specific document – in this case, the seminal paper "Attention Is All You Need." The process involves extracting text from the document, creating embeddings, setting up a similarity search, and then integrating this with a question-answering system powered by a large language model (LLM). The chatbot also maintains a chat history for context-aware responses.
 
 Here’s a breakdown of the key steps:
@@ -426,7 +426,7 @@ This script focuses on creating an easy-to-use tool for summarizing PDF document
 
 ### 14- Phi2_SFT_FT_Health: 
 <details>
-  <summary> **Fine-Tuning PHI-2 Model for Mental Health Conversations with TRL and LoRA** </summary>
+  <summary> Fine-Tuning PHI-2 Model for Mental Health Conversations with TRL and LoRA </summary>
 
 This script details the process of fine-tuning the PHI-2 model from Microsoft for a specialized task: generating responses for mental health counseling conversations. The process involves preparing the dataset, fine-tuning with Token Reward Learning (TRL) and Low-Rank Adaptation (LoRA), and generating responses using the fine-tuned model.
 
@@ -514,7 +514,7 @@ This script demonstrates creating an intelligent chatbot using LangChain and Ope
 
 ### 16- Semantic_Router_W/Aurelio: 
 <details>
-  <summary> **Semantic Router for Efficient Routing in Language Models** </summary>
+  <summary> Semantic Router for Efficient Routing in Language Models </summary>
 
 This script introduces the Semantic Router library, an efficient method for routing queries to appropriate response categories in Large Language Models (LLMs). Semantic Router utilizes semantic vector space to significantly reduce routing time, making it a useful tool for enhancing LLM performance.
 
@@ -548,7 +548,7 @@ This script introduces the Semantic Router library, an efficient method for rout
 
 ### 17- : 
 <details>
-  <summary> **Tokenization with Transformers Library**</summary>
+  <summary> Tokenization with Transformers Library</summary>
 
 This script demonstrates tokenization of a given text using the BERT tokenizer from the Transformers library. Tokenization is the process of converting text into a sequence of tokens (words, subwords, or symbols) that can be processed by language models.
 
@@ -573,9 +573,9 @@ This script demonstrates tokenization of a given text using the BERT tokenizer f
 
 - The script provides a clear demonstration of tokenization, a fundamental step in preparing text data for natural language processing. It showcases the ease of using pre-built tokenizers from the Transformers library, highlighting the library's usefulness in NLP projects.<details>
 
-### 18- 18-Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
+### 18- Transformers_From_Scratch_PACKAGE_to_HF_ALL_FILES: 
 <details>
-  <summary> **Advanced PyTorch Transformer and Hugging Face Model Integration** </summary>
+  <summary> Advanced PyTorch Transformer and Hugging Face Model Integration </summary>
 
 This script presents an advanced implementation of creating and training a simple neural network model using PyTorch, integrating it with the Hugging Face ecosystem, and performing various operations like model saving, loading, and cloning. The process includes handling tokenization, data loading, model training, and interaction with the Hugging Face Hub.
 
@@ -686,7 +686,7 @@ This script is designed to automate the extraction and summarization of Python n
 - Useful for researchers, developers, or anyone interested in exploring code repositories without manually reading each file.
 - Can be expanded to include more complex summarization features or to handle a larger set of files.
 
-**Conclusion:**
+
 - The script showcases an efficient approach to accessing and summarizing code from GitHub repositories, leveraging web scraping and NLP technologies. It is particularly useful for obtaining quick insights into the contents of multiple notebooks, making it a valuable tool for code analysis and documentation purposes.
 
 </details>
